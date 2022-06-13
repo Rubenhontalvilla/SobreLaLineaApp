@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SobreLaLineaApp</string>
+    <string name="contrasenha">Password</string>
+    <string name="email">Email</string>
+    <string name="iniciar_sesion">Sign In</string>
+    <string name="crear_cuenta">Create an Account</string>
+    <string name="Nombre_usuario">Username</string>
+    <string name="Telefono">Phone</string>
+    <string name="pedir_presupuesto">Ask for a quote</string>
+    <string name="Escribe_mensaje">Write a message</string>
+    <string name="Producto">Products</string>
+    <string name="Precio">Precio</string>
+    <string name="Pagar">Pay</string>
+    <string name="Agregar_carrito">Add to cart</string>
+    <string name="ver_carrito">Show the cart</string>
+    <string name="Enviar">SEND</string>
+    <string name="Sobrelalinea">SobreLaLinea</string>
+    <string name="Nombre_producto">Name</string>
+    <string name="Descripcion">Description</string>
+    <string name="registrarCliente">Register as customer</string>
+    <string name="registrarAdmin">Register as admin</string>
+    <string name="Productos">Products</string>
+    <string name="Direccion">Address</string>
+    <string name="Localidad">Location</string>
+    <string name="descripcionTienda">It is a small family printing company with more than 20 years of experience.</string>
+    <string name="codigoPostal">Postal Code</string>
+    <string name="Informacion">Information</string>
+    <string name="RegistrarAdmin">Register admin</string>
+    <string name="realizarPedido">MAKE AN ORDER</string>
+    <string name="pedidos">ORDERS</string>
+</resources>

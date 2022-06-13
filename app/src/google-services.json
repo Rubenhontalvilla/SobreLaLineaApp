@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "451257619533",
+    "firebase_url": "https://sobrelalinea-defa4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sobrelalinea-defa4",
+    "storage_bucket": "sobrelalinea-defa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451257619533:android:a188e21de23cefa727f804",
+        "android_client_info": {
+          "package_name": "com.example.sobrelalinea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451257619533-av7jtfb3tdd41k29fad6v9gj0blnc8vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXl6byfbQyRLLYJk9pooAZfh7IZZGvqDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451257619533-av7jtfb3tdd41k29fad6v9gj0blnc8vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451257619533:android:1763f84ffac7d29627f804",
+        "android_client_info": {
+          "package_name": "com.example.sobrelalineaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451257619533-av7jtfb3tdd41k29fad6v9gj0blnc8vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXl6byfbQyRLLYJk9pooAZfh7IZZGvqDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451257619533-av7jtfb3tdd41k29fad6v9gj0blnc8vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

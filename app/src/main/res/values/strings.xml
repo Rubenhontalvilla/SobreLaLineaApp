@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SobreLaLineaApp</string>
+    <string name="contrasenha">Contraseña</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="Nombre_usuario">Nombre de usuario</string>
+    <string name="Telefono">Telefono</string>
+    <string name="pedir_presupuesto">Pedir presupuesto</string>
+    <string name="Escribe_mensaje">Escribe un mensaje</string>
+    <string name="Producto">Productos</string>
+    <string name="Precio">Precio</string>
+    <string name="Pagar">Pagar</string>
+    <string name="Agregar_carrito">Agregar al carrito</string>
+    <string name="ver_carrito">Ver carrito</string>
+    <string name="Enviar">ENVIAR</string>
+    <string name="Sobrelalinea">SobreLaLinea</string>
+    <string name="Nombre_producto">Nombre</string>
+    <string name="Descripcion">Descripción</string>
+    <string name="registrarCliente">Registrarse como cliente</string>
+    <string name="registrarAdmin">Registrar como administrador</string>
+    <string name="Productos">Productos</string>
+    <string name="Chat" translatable="false">Chat</string>
+    <string name="Direccion">Dirección</string>
+    <string name="Localidad">Localidad</string>
+    <string name="descripcionTienda">Se trata de un imprenta pequeña familiar con mas de 20 años de experiencia.</string>
+    <string name="codigoPostal">Codigo Postal</string>
+    <string name="Informacion">Información</string>
+    <string name="RegistrarAdmin">Registrar admin</string>
+    <string name="realizarPedido">REALIZAR PEDIDO</string>
+    <string name="pedidos">PEDIDOS</string>
+</resources>
